@@ -30,8 +30,8 @@ Your challenge is to build out this profile card component and get it looking as
 
 ### Links
 
-- Solution URL: [https://github.com/mohamedKhaled89/stats-preview-card-component]
-- Live Site URL: [https://mohamedkhaled89.github.io/stats-preview-card-component/]
+- Solution URL: [https://github.com/mohamedKhaled89/profile-card-component]
+- Live Site URL: [https://mohamedkhaled89.github.io/profile-card-component/]
 
 ## My process
 
